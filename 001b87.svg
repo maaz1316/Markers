@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="507.61" height="983" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" data-name="Layer 1">
+ <defs>
+  <style>.cls-1{opacity:0.22;}.cls-2{fill:#001b87;}.cls-3{fill:#013;}</style>
+ </defs>
+ <title>001b87</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g data-name="001b87" id="_001b87">
+   <ellipse class="cls-1" cx="253.8" cy="931.57" id="svg_1" rx="231.87" ry="51.43"/>
+   <path class="cls-2" d="m375,8c-571.06,0 0,931.57 0,931.57s571.06,-931.57 0,-931.57zm0,362.42a147.25,147.25 0 1 1 147.25,-147.24a147.25,147.25 0 0 1 -147.25,147.24z" id="svg_2" transform="translate(-121.2 -8)"/>
+   <path class="cls-3" d="m375,939.57l0,-569.15a147.25,147.25 0 1 0 0,-294.49l0,-67.93c571.06,0 0,931.57 0,931.57z" id="svg_3" transform="translate(-121.2 -8)"/>
+  </g>
+ </g>
+</svg>
